@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ketsu3ki
+- 👀 I’m a student in Cybersecurity
+- 🌱 I’m currently learning C, Python and Assembly
+- 💞️ I’m looking to collaborate on Cyber projects
+- 📫 How to reach me -soon-
+- 😄 Pronouns: He / Him
